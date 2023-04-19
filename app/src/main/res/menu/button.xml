@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/firstfragment"
+        android:title="First"
+        android:icon="@drawable/ic_baseline_message_24"/>
+    <item android:id="@+id/secondfragment"
+        android:title="Second"
+        android:icon="@drawable/ic_baseline_call_24"/>
+    <item android:id="@+id/thirdfragment"
+        android:title="Third"
+        android:icon="@drawable/ic_baseline_perm_contact_calendar_24"/>
+</menu>
